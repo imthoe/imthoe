@@ -8,7 +8,10 @@ My blog: https://lo0l.com
 
 Recent Projects/Activities:
  - [PoC](https://github.com/imthoe/rtsp-rtp) for TP-Link Tapo C200 Auth Bypass
- - working on OSED
+
+Certifications:
+ - OSCP, OSEP, OSED
+ - CRTO
 
 <!---
 imthoe/imthoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
