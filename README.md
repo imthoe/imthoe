@@ -11,7 +11,7 @@ Recent Projects/Activities:
 
 Certifications:
  - OSCP, OSEP, OSED
- - CRTO
+ - CRTO I & II
 
 <!---
 imthoe/imthoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
